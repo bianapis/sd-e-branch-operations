@@ -1,0 +1,13 @@
+{
+  "eBranchOperatingSessionReference" : "EBSSR8987",
+  "employeeBusinessUnitReference" : "EBUR2455",
+  "customerContactRecordReference" : "B2B5G9X1D45",
+  "productionIssueType" : "NETWORK_FAILURE",
+  "productionIssueStatus" : "PIS324324",
+  "productionIssueResolutionTask" : "Err1: Explanation of actions to fix the problem",
+  "eBranchServiceIssueReference" : "ESIR123",
+  "eBranchServiceReference" : "EBSR243",
+  "productionIssueDiagnosis" : "Err1: Explanation of cause and impact",
+  "productionIssueRecord" : {},
+  "productionIssueDescription" : "Err1: Description to explain"
+}

@@ -1,0 +1,11 @@
+{
+  "eBranchOperatingSessionReference" : "A1A4F8X1D45",
+  "eBranchInboundConnectionReference" : "EICR7809",
+  "eBranchInboundConnectionDuration" : "01:42:59",
+  "eBranchDevicePropertyValue" : "EBDPV2378",
+  "eBranchServiceSessionStatistics" : "EBSSR1442",
+  "eBranchInboundConnectionContactRecordReference" : "DS7DS8",
+  "eBranchDeviceReference" : "EBDR2131",
+  "eBranchServiceReference" : "EBSR21434",
+  "eBranchInboundConnectionStartTime" : "01-01-1970 00:00:00"
+}

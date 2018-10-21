@@ -1,0 +1,11 @@
+{
+  "eBranchOperatingSessionReference" : "A1A4F8X1D4",
+  "eBranchInboundConnectionReference" : "EICR4987",
+  "eBranchInboundConnectionDuration" : "01:42:59",
+  "eBranchDevicePropertyValue" : "www.google.com",
+  "eBranchServiceSessionStatistics" : {},
+  "eBranchInboundConnectionContactRecordReference" : "EICCRR7DS8",
+  "eBranchDeviceReference" : "EBDR7894",
+  "eBranchServiceReference" : "EBSR5612",
+  "eBranchInboundConnectionStartTime" : "01-01-1970 00:00:00"
+}

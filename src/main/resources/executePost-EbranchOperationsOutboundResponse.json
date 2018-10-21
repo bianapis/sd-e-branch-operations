@@ -1,0 +1,12 @@
+{
+  "eBranchOperatingSessionReference" : "EOSR1D45",
+  "eBranchOutboundConnectionReference" : "EOCR498",
+  "employeeBusinessUnitReference" : "EBUR9312",
+  "customerContactRecordReference" : "CCRR123",
+  "customerContactRecord" : {},
+  "eBranchServiceSessionStatistics" : {},
+  "eBranchCustomerDeviceReference" : "ECDR6987",
+  "eBranchOutboundConnectionDuration" : "01:42:59",
+  "eBranchServiceReference" : "EBSR6123",
+  "eBranchOutboundConnectionStartTime" : "01-01-1970 00:00:00"
+}
